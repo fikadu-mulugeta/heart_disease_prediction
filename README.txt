@@ -28,7 +28,8 @@ heart_disease_prediction/
    ```
 
 ## Dataset
-The dataset contains features such as age, gender, cholesterol levels, and more to predict heart disease.
+The dataset contains features such as age, gender, cholesterol levels, and more to predict heart disease. 
+It is obtained from Kaggle using the following link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction  
 
 ## Results
 Decision Tree: Train Accuracy = 86.65%, Validation Accuracy = 86.96%
