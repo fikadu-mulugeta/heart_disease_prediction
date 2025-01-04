@@ -14,7 +14,9 @@ heart_disease_prediction/
 |- random_forest.py
 |- xgboost_model.py
 |- results.txt
+|- License.txt
 |- README.md
+
 ```
 
 ## How to Run
